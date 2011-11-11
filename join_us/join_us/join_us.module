@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the join_us feature.
+ */
+
+include_once('join_us.features.inc');
